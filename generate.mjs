@@ -313,14 +313,14 @@ function formatPinnedRepositories(repositories) {
 function createCodeLines(stats) {
   return [
     { type: "comment", value: "// profile.ts — generated automatically" },
-    { type: "statement", keyword: "const", name: "profile", value: "{" },
+    { type: "statement", keyword: "const", name: "profile", value: "= {" },
     { type: "string", key: "username", value: config.displayUsername },
     { type: "string", key: "role", value: config.role },
     { type: "string", key: "focus", value: config.focus },
     { type: "string", key: "status", value: config.status },
     { type: "statement", value: "};" },
     { type: "blank" },
-    { type: "statement", keyword: "const", name: "github", value: "{" },
+    { type: "statement", keyword: "const", name: "github", value: "= {" },
     { type: "number", key: "publicRepos", value: stats.publicRepos },
     { type: "number", key: "followers", value: stats.followers },
     { type: "number", key: "following", value: stats.following },
@@ -346,12 +346,41 @@ function createCodeLines(stats) {
       type: "arrayString",
       value
     })),
-    { type: "statement", value: "];" }
+    { type: "statement", value: "];" },
+    { type: "blank" },
+    {
+      type: "statement",
+      keyword: "const",
+      name: "development",
+      value: "= {"
+    },
+    {
+      type: "string",
+      key: "languages",
+      value: config.development.languages
+    },
+    {
+      type: "string",
+      key: "interests",
+      value: config.development.interests
+    },
+    {
+      type: "string",
+      key: "projects",
+      value: config.development.projects
+    },
+    { type: "statement", value: "};" },
+    { type: "blank" },
+    { type: "statement", keyword: "const", name: "contact", value: "= {" },
+    { type: "string", key: "github", value: config.contact.github },
+    { type: "string", key: "website", value: config.contact.website },
+    { type: "string", key: "linkedin", value: config.contact.linkedin },
+    { type: "statement", value: "};" }
   ];
 }
 
 function renderCodeLine(line, x, y, theme) {
-  const characterWidth = 14.4;
+  const characterWidth = 13.2;
   const atColumn = (column) => x + column * characterWidth;
   if (line.type === "blank") return "";
 
@@ -383,18 +412,19 @@ function renderCodeLine(line, x, y, theme) {
 
 function generateSvg(themeName, theme, stats) {
   const width = 2000;
-  const height = 1050;
   const asciiX = 24;
   const asciiY = 35;
   const asciiFontSize = 14;
   const asciiLineHeight = 17;
-  const codeX = 660;
+  const codeX = 640;
   const codeY = 55;
-  const codeFontSize = 24;
-  const codeLineHeight = 34;
+  const codeFontSize = 22;
+  const codeLineHeight = 30;
 
-  const asciiElements = asciiPortrait
-    .split("\n")
+  const asciiLines = asciiPortrait.split("\n");
+  const codeLines = createCodeLines(stats);
+
+  const asciiElements = asciiLines
     .map(
       (line, index) =>
         `<text x="${asciiX}" y="${asciiY + index * asciiLineHeight}" fill="${theme.ascii}">${escapeXml(line)}</text>`
@@ -402,7 +432,7 @@ function generateSvg(themeName, theme, stats) {
     .join("\n");
 
   let currentY = codeY;
-  const codeElements = createCodeLines(stats)
+  const codeElements = codeLines
     .map((line) => {
       if (line.type === "blank") {
         currentY += 15;
@@ -414,9 +444,14 @@ function generateSvg(themeName, theme, stats) {
     })
     .join("\n");
 
+  const asciiBottom = asciiY + asciiLines.length * asciiLineHeight;
+  const codeBottom = currentY + codeFontSize;
+  const height = Math.ceil(Math.max(500, asciiBottom, codeBottom) + 20);
+
   return `<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg"
-     width="${width}" height="${height}" viewBox="0 0 ${width} ${height}"
+     width="100%" height="100%" viewBox="0 0 ${width} ${height}"
+     preserveAspectRatio="xMinYMin meet"
      role="img" aria-label="Osama Rahmani GitHub profile in ${themeName} mode">
   <rect width="100%" height="100%" fill="${theme.background}"/>
   <g font-family="JetBrains Mono, Fira Code, Cascadia Code, Consolas, monospace"

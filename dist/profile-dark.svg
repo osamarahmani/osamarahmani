@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg"
-     width="2000" height="1050" viewBox="0 0 2000 1050"
+     width="100%" height="100%" viewBox="0 0 2000 1072"
+     preserveAspectRatio="xMinYMin meet"
      role="img" aria-label="Osama Rahmani GitHub profile in dark mode">
   <rect width="100%" height="100%" fill="#0d1117"/>
   <g font-family="JetBrains Mono, Fira Code, Cascadia Code, Consolas, monospace"
@@ -66,29 +67,41 @@
 <text x="24" y="1021" fill="#c9d1d9">lc;;;;;;;;;;;;&apos;.....................:&apos;&apos;&apos;,&apos;..........,:;,........&apos;&apos;&apos;...</text>
   </g>
   <g font-family="JetBrains Mono, Fira Code, Cascadia Code, Consolas, monospace"
-     font-size="24" xml:space="preserve">
-    <text x="660" y="55" fill="#8b949e">// profile.ts — generated automatically</text>
-<text y="89"><tspan x="660" fill="#d2a8ff" font-weight="700">const</tspan><tspan x="732" fill="#c9d1d9"> profile {</tspan></text>
-<text y="123"><tspan x="660" fill="#79c0ff">  username</tspan><tspan x="804" fill="#c9d1d9">: </tspan><tspan x="832.8" fill="#ff7b72">&quot;osama@rahmani&quot;</tspan><tspan x="1048.8" fill="#c9d1d9">,</tspan></text>
-<text y="157"><tspan x="660" fill="#79c0ff">  role</tspan><tspan x="746.4" fill="#c9d1d9">: </tspan><tspan x="775.2" fill="#ff7b72">&quot;Software Engineer / BTech IT&quot;</tspan><tspan x="1207.2" fill="#c9d1d9">,</tspan></text>
-<text y="191"><tspan x="660" fill="#79c0ff">  focus</tspan><tspan x="760.8" fill="#c9d1d9">: </tspan><tspan x="789.6" fill="#ff7b72">&quot;AI, Cloud, IoT, Web Applications&quot;</tspan><tspan x="1279.2" fill="#c9d1d9">,</tspan></text>
-<text y="225"><tspan x="660" fill="#79c0ff">  status</tspan><tspan x="775.2" fill="#c9d1d9">: </tspan><tspan x="804" fill="#ff7b72">&quot;Learning and building smart systems&quot;</tspan><tspan x="1336.8000000000002" fill="#c9d1d9">,</tspan></text>
-<text x="660" y="259" fill="#c9d1d9">};</text>
+     font-size="22" xml:space="preserve">
+    <text x="640" y="55" fill="#8b949e">// profile.ts — generated automatically</text>
+<text y="85"><tspan x="640" fill="#d2a8ff" font-weight="700">const</tspan><tspan x="706" fill="#c9d1d9"> profile = {</tspan></text>
+<text y="115"><tspan x="640" fill="#79c0ff">  username</tspan><tspan x="772" fill="#c9d1d9">: </tspan><tspan x="798.4" fill="#ff7b72">&quot;osama@rahmani&quot;</tspan><tspan x="996.4" fill="#c9d1d9">,</tspan></text>
+<text y="145"><tspan x="640" fill="#79c0ff">  role</tspan><tspan x="719.2" fill="#c9d1d9">: </tspan><tspan x="745.6" fill="#ff7b72">&quot;Software Engineer / BTech IT&quot;</tspan><tspan x="1141.6" fill="#c9d1d9">,</tspan></text>
+<text y="175"><tspan x="640" fill="#79c0ff">  focus</tspan><tspan x="732.4" fill="#c9d1d9">: </tspan><tspan x="758.8" fill="#ff7b72">&quot;AI, Cloud, IoT, Web Applications&quot;</tspan><tspan x="1207.6" fill="#c9d1d9">,</tspan></text>
+<text y="205"><tspan x="640" fill="#79c0ff">  status</tspan><tspan x="745.6" fill="#c9d1d9">: </tspan><tspan x="772" fill="#ff7b72">&quot;Learning and building smart systems&quot;</tspan><tspan x="1260.4" fill="#c9d1d9">,</tspan></text>
+<text x="640" y="235" fill="#c9d1d9">};</text>
 
-<text y="308"><tspan x="660" fill="#d2a8ff" font-weight="700">const</tspan><tspan x="732" fill="#c9d1d9"> github {</tspan></text>
-<text y="342"><tspan x="660" fill="#79c0ff">  publicRepos</tspan><tspan x="847.2" fill="#c9d1d9">: </tspan><tspan x="876" fill="#ffa657">37</tspan><tspan x="904.8" fill="#c9d1d9">,</tspan></text>
-<text y="376"><tspan x="660" fill="#79c0ff">  followers</tspan><tspan x="818.4" fill="#c9d1d9">: </tspan><tspan x="847.2" fill="#ffa657">9</tspan><tspan x="861.6" fill="#c9d1d9">,</tspan></text>
-<text y="410"><tspan x="660" fill="#79c0ff">  following</tspan><tspan x="818.4" fill="#c9d1d9">: </tspan><tspan x="847.2" fill="#ffa657">2</tspan><tspan x="861.6" fill="#c9d1d9">,</tspan></text>
-<text y="444"><tspan x="660" fill="#79c0ff">  starsReceived</tspan><tspan x="876" fill="#c9d1d9">: </tspan><tspan x="904.8" fill="#ffa657">3</tspan><tspan x="919.2" fill="#c9d1d9">,</tspan></text>
-<text y="478"><tspan x="660" fill="#79c0ff">  publicCommits</tspan><tspan x="876" fill="#c9d1d9">: </tspan><tspan x="904.8" fill="#ffa657">71</tspan><tspan x="933.6" fill="#c9d1d9">,</tspan></text>
-<text y="512"><tspan x="660" fill="#79c0ff">  profile</tspan><tspan x="789.6" fill="#c9d1d9">: </tspan><tspan x="818.4" fill="#ff7b72">&quot;https://github.com/osamarahmani&quot;</tspan><tspan x="1293.6" fill="#c9d1d9">,</tspan></text>
-<text x="660" y="546" fill="#c9d1d9">};</text>
+<text y="280"><tspan x="640" fill="#d2a8ff" font-weight="700">const</tspan><tspan x="706" fill="#c9d1d9"> github = {</tspan></text>
+<text y="310"><tspan x="640" fill="#79c0ff">  publicRepos</tspan><tspan x="811.6" fill="#c9d1d9">: </tspan><tspan x="838" fill="#ffa657">37</tspan><tspan x="864.4" fill="#c9d1d9">,</tspan></text>
+<text y="340"><tspan x="640" fill="#79c0ff">  followers</tspan><tspan x="785.2" fill="#c9d1d9">: </tspan><tspan x="811.6" fill="#ffa657">9</tspan><tspan x="824.8" fill="#c9d1d9">,</tspan></text>
+<text y="370"><tspan x="640" fill="#79c0ff">  following</tspan><tspan x="785.2" fill="#c9d1d9">: </tspan><tspan x="811.6" fill="#ffa657">2</tspan><tspan x="824.8" fill="#c9d1d9">,</tspan></text>
+<text y="400"><tspan x="640" fill="#79c0ff">  starsReceived</tspan><tspan x="838" fill="#c9d1d9">: </tspan><tspan x="864.4" fill="#ffa657">3</tspan><tspan x="877.6" fill="#c9d1d9">,</tspan></text>
+<text y="430"><tspan x="640" fill="#79c0ff">  publicCommits</tspan><tspan x="838" fill="#c9d1d9">: </tspan><tspan x="864.4" fill="#ffa657">73</tspan><tspan x="890.8" fill="#c9d1d9">,</tspan></text>
+<text y="460"><tspan x="640" fill="#79c0ff">  profile</tspan><tspan x="758.8" fill="#c9d1d9">: </tspan><tspan x="785.2" fill="#ff7b72">&quot;https://github.com/osamarahmani&quot;</tspan><tspan x="1220.8" fill="#c9d1d9">,</tspan></text>
+<text x="640" y="490" fill="#c9d1d9">};</text>
 
-<text y="595"><tspan x="660" fill="#d2a8ff" font-weight="700">const</tspan><tspan x="732" fill="#c9d1d9"> languages =</tspan></text>
-<text x="660" y="629" fill="#ff7b72">  &quot;TypeScript 42.2%, JavaScript 31.2%, Jupyter Notebook 13.1%, CSS 6.5%, HTML 4.8%, Python 2.1%&quot;;</text>
+<text y="535"><tspan x="640" fill="#d2a8ff" font-weight="700">const</tspan><tspan x="706" fill="#c9d1d9"> languages =</tspan></text>
+<text x="640" y="565" fill="#ff7b72">  &quot;TypeScript 42.0%, JavaScript 31.5%, Jupyter Notebook 13.0%, CSS 6.5%, HTML 4.8%, Python 2.1%&quot;;</text>
 
-<text y="678"><tspan x="660" fill="#d2a8ff" font-weight="700">const</tspan><tspan x="732" fill="#c9d1d9"> pinnedRepositories = [</tspan></text>
-<text x="660" y="712" fill="#ff7b72">  &quot;No pinned repositories&quot;,</text>
-<text x="660" y="746" fill="#c9d1d9">];</text>
+<text y="610"><tspan x="640" fill="#d2a8ff" font-weight="700">const</tspan><tspan x="706" fill="#c9d1d9"> pinnedRepositories = [</tspan></text>
+<text x="640" y="640" fill="#ff7b72">  &quot;No pinned repositories&quot;,</text>
+<text x="640" y="670" fill="#c9d1d9">];</text>
+
+<text y="715"><tspan x="640" fill="#d2a8ff" font-weight="700">const</tspan><tspan x="706" fill="#c9d1d9"> development = {</tspan></text>
+<text y="745"><tspan x="640" fill="#79c0ff">  languages</tspan><tspan x="785.2" fill="#c9d1d9">: </tspan><tspan x="811.6" fill="#ff7b72">&quot;Python, JavaScript, TypeScript, HTML, CSS&quot;</tspan><tspan x="1379.1999999999998" fill="#c9d1d9">,</tspan></text>
+<text y="775"><tspan x="640" fill="#79c0ff">  interests</tspan><tspan x="785.2" fill="#c9d1d9">: </tspan><tspan x="811.6" fill="#ff7b72">&quot;Artificial Intelligence, Cloud, IoT&quot;</tspan><tspan x="1300" fill="#c9d1d9">,</tspan></text>
+<text y="805"><tspan x="640" fill="#79c0ff">  projects</tspan><tspan x="772" fill="#c9d1d9">: </tspan><tspan x="798.4" fill="#ff7b72">&quot;undefined&quot;</tspan><tspan x="943.5999999999999" fill="#c9d1d9">,</tspan></text>
+<text x="640" y="835" fill="#c9d1d9">};</text>
+
+<text y="880"><tspan x="640" fill="#d2a8ff" font-weight="700">const</tspan><tspan x="706" fill="#c9d1d9"> contact = {</tspan></text>
+<text y="910"><tspan x="640" fill="#79c0ff">  github</tspan><tspan x="745.6" fill="#c9d1d9">: </tspan><tspan x="772" fill="#ff7b72">&quot;github.com/osamarahmani&quot;</tspan><tspan x="1102" fill="#c9d1d9">,</tspan></text>
+<text y="940"><tspan x="640" fill="#79c0ff">  website</tspan><tspan x="758.8" fill="#c9d1d9">: </tspan><tspan x="785.2" fill="#ff7b72">&quot;osamarahmani.tech&quot;</tspan><tspan x="1036" fill="#c9d1d9">,</tspan></text>
+<text y="970"><tspan x="640" fill="#79c0ff">  linkedin</tspan><tspan x="772" fill="#c9d1d9">: </tspan><tspan x="798.4" fill="#ff7b72">&quot;linkedin.com/in/osamarahmani&quot;</tspan><tspan x="1194.4" fill="#c9d1d9">,</tspan></text>
+<text x="640" y="1000" fill="#c9d1d9">};</text>
   </g>
 </svg>
