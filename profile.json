@@ -1,0 +1,17 @@
+{
+  "username": "osamarahmani",
+  "displayUsername": "osama@rahmani",
+  "role": "Software Engineer / BTech IT",
+  "focus": "AI, Cloud, IoT, Web Applications",
+  "status": "Learning and building smart systems",
+  "development": {
+    "languages": "Python, JavaScript, TypeScript, HTML, CSS",
+    "interests": "Artificial Intelligence, Cloud, IoT",
+    "projects": "Smart apps, Nursing Assistant, Vision AI"
+  },
+  "contact": {
+    "github": "github.com/osamarahmani",
+    "website": "osamarahmani.tech",
+    "linkedin": "linkedin.com/in/osamarahmani"
+  }
+}

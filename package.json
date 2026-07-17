@@ -1,0 +1,15 @@
+{
+  "name": "osamarahmani-profile-svg",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node generate.mjs",
+    "generate": "node generate.mjs",
+    "portrait": "node convert-image.mjs",
+    "watch": "node --watch generate.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
