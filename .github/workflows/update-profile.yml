@@ -16,8 +16,8 @@ on:
 
   schedule:
     # Repository creation happens outside this profile repository, so poll
-    # GitHub periodically for updated public statistics.
-    - cron: "17,47 * * * *"
+    # frequently without exhausting the GitHub API request allowance.
+    - cron: "3,13,23,33,43,53 * * * *"
 
 permissions:
   contents: write
