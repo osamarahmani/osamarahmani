@@ -15,7 +15,9 @@ on:
       - ".github/workflows/update-profile.yml"
 
   schedule:
-    - cron: "17 */6 * * *"
+    # Repository creation happens outside this profile repository, so poll
+    # GitHub periodically for updated public statistics.
+    - cron: "17,47 * * * *"
 
 permissions:
   contents: write
