@@ -81,7 +81,7 @@
 <text y="340"><tspan x="640" fill="#005cc5">  followers</tspan><tspan x="785.2" fill="#24292e">: </tspan><tspan x="811.6" fill="#e36209">9</tspan><tspan x="824.8" fill="#24292e">,</tspan></text>
 <text y="370"><tspan x="640" fill="#005cc5">  following</tspan><tspan x="785.2" fill="#24292e">: </tspan><tspan x="811.6" fill="#e36209">2</tspan><tspan x="824.8" fill="#24292e">,</tspan></text>
 <text y="400"><tspan x="640" fill="#005cc5">  starsReceived</tspan><tspan x="838" fill="#24292e">: </tspan><tspan x="864.4" fill="#e36209">3</tspan><tspan x="877.6" fill="#24292e">,</tspan></text>
-<text y="430"><tspan x="640" fill="#005cc5">  publicCommits</tspan><tspan x="838" fill="#24292e">: </tspan><tspan x="864.4" fill="#e36209">73</tspan><tspan x="890.8" fill="#24292e">,</tspan></text>
+<text y="430"><tspan x="640" fill="#005cc5">  publicCommits</tspan><tspan x="838" fill="#24292e">: </tspan><tspan x="864.4" fill="#e36209">74</tspan><tspan x="890.8" fill="#24292e">,</tspan></text>
 <text y="460"><tspan x="640" fill="#005cc5">  profile</tspan><tspan x="758.8" fill="#24292e">: </tspan><tspan x="785.2" fill="#b91c1c">&quot;https://github.com/osamarahmani&quot;</tspan><tspan x="1220.8" fill="#24292e">,</tspan></text>
 <text x="640" y="490" fill="#24292e">};</text>
 
