@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg"
-     width="100%" height="100%" viewBox="0 0 2000 1072"
+     width="100%" height="100%" viewBox="0 0 2000 1058"
      preserveAspectRatio="xMinYMin meet"
      role="img" aria-label="Osama Rahmani GitHub profile in light mode">
   <rect width="100%" height="100%" fill="#ffffff"/>
@@ -68,40 +68,39 @@
   </g>
   <g font-family="JetBrains Mono, Fira Code, Cascadia Code, Consolas, monospace"
      font-size="22" xml:space="preserve">
-    <text x="640" y="55" fill="#6a737d">// profile.ts — generated automatically</text>
-<text y="85"><tspan x="640" fill="#6f42c1" font-weight="700">const</tspan><tspan x="706" fill="#24292e"> profile = {</tspan></text>
-<text y="115"><tspan x="640" fill="#005cc5">  username</tspan><tspan x="772" fill="#24292e">: </tspan><tspan x="798.4" fill="#b91c1c">&quot;osama@rahmani&quot;</tspan><tspan x="996.4" fill="#24292e">,</tspan></text>
-<text y="145"><tspan x="640" fill="#005cc5">  role</tspan><tspan x="719.2" fill="#24292e">: </tspan><tspan x="745.6" fill="#b91c1c">&quot;Software Engineer / BTech IT&quot;</tspan><tspan x="1141.6" fill="#24292e">,</tspan></text>
-<text y="175"><tspan x="640" fill="#005cc5">  focus</tspan><tspan x="732.4" fill="#24292e">: </tspan><tspan x="758.8" fill="#b91c1c">&quot;AI, Cloud, IoT, Web Applications&quot;</tspan><tspan x="1207.6" fill="#24292e">,</tspan></text>
-<text y="205"><tspan x="640" fill="#005cc5">  status</tspan><tspan x="745.6" fill="#24292e">: </tspan><tspan x="772" fill="#b91c1c">&quot;Learning and building smart systems&quot;</tspan><tspan x="1260.4" fill="#24292e">,</tspan></text>
-<text x="640" y="235" fill="#24292e">};</text>
+    <text y="55"><tspan x="640" fill="#6f42c1" font-weight="700">const</tspan><tspan x="706" fill="#24292e"> profile = {</tspan></text>
+<text y="85"><tspan x="640" fill="#005cc5">  username</tspan><tspan x="772" fill="#24292e">: </tspan><tspan x="798.4" fill="#b91c1c">&quot;osama@rahmani&quot;</tspan><tspan x="996.4" fill="#24292e">,</tspan></text>
+<text y="115"><tspan x="640" fill="#005cc5">  role</tspan><tspan x="719.2" fill="#24292e">: </tspan><tspan x="745.6" fill="#b91c1c">&quot;Software Engineer / BTech IT&quot;</tspan><tspan x="1141.6" fill="#24292e">,</tspan></text>
+<text y="145"><tspan x="640" fill="#005cc5">  focus</tspan><tspan x="732.4" fill="#24292e">: </tspan><tspan x="758.8" fill="#b91c1c">&quot;AI, Cloud, IoT, Web Applications&quot;</tspan><tspan x="1207.6" fill="#24292e">,</tspan></text>
+<text y="175"><tspan x="640" fill="#005cc5">  status</tspan><tspan x="745.6" fill="#24292e">: </tspan><tspan x="772" fill="#b91c1c">&quot;Learning and building smart systems&quot;</tspan><tspan x="1260.4" fill="#24292e">,</tspan></text>
+<text x="640" y="205" fill="#24292e">};</text>
 
-<text y="280"><tspan x="640" fill="#6f42c1" font-weight="700">const</tspan><tspan x="706" fill="#24292e"> github = {</tspan></text>
-<text y="310"><tspan x="640" fill="#005cc5">  publicRepos</tspan><tspan x="811.6" fill="#24292e">: </tspan><tspan x="838" fill="#e36209">38</tspan><tspan x="864.4" fill="#24292e">,</tspan></text>
-<text y="340"><tspan x="640" fill="#005cc5">  followers</tspan><tspan x="785.2" fill="#24292e">: </tspan><tspan x="811.6" fill="#e36209">9</tspan><tspan x="824.8" fill="#24292e">,</tspan></text>
-<text y="370"><tspan x="640" fill="#005cc5">  following</tspan><tspan x="785.2" fill="#24292e">: </tspan><tspan x="811.6" fill="#e36209">2</tspan><tspan x="824.8" fill="#24292e">,</tspan></text>
-<text y="400"><tspan x="640" fill="#005cc5">  starsReceived</tspan><tspan x="838" fill="#24292e">: </tspan><tspan x="864.4" fill="#e36209">3</tspan><tspan x="877.6" fill="#24292e">,</tspan></text>
-<text y="430"><tspan x="640" fill="#005cc5">  publicCommits</tspan><tspan x="838" fill="#24292e">: </tspan><tspan x="864.4" fill="#e36209">76</tspan><tspan x="890.8" fill="#24292e">,</tspan></text>
-<text y="460"><tspan x="640" fill="#005cc5">  profile</tspan><tspan x="758.8" fill="#24292e">: </tspan><tspan x="785.2" fill="#b91c1c">&quot;https://github.com/osamarahmani&quot;</tspan><tspan x="1220.8" fill="#24292e">,</tspan></text>
-<text x="640" y="490" fill="#24292e">};</text>
+<text y="250"><tspan x="640" fill="#6f42c1" font-weight="700">const</tspan><tspan x="706" fill="#24292e"> github = {</tspan></text>
+<text y="280"><tspan x="640" fill="#005cc5">  publicRepos</tspan><tspan x="811.6" fill="#24292e">: </tspan><tspan x="838" fill="#e36209">38</tspan><tspan x="864.4" fill="#24292e">,</tspan></text>
+<text y="310"><tspan x="640" fill="#005cc5">  followers</tspan><tspan x="785.2" fill="#24292e">: </tspan><tspan x="811.6" fill="#e36209">9</tspan><tspan x="824.8" fill="#24292e">,</tspan></text>
+<text y="340"><tspan x="640" fill="#005cc5">  following</tspan><tspan x="785.2" fill="#24292e">: </tspan><tspan x="811.6" fill="#e36209">2</tspan><tspan x="824.8" fill="#24292e">,</tspan></text>
+<text y="370"><tspan x="640" fill="#005cc5">  starsReceived</tspan><tspan x="838" fill="#24292e">: </tspan><tspan x="864.4" fill="#e36209">3</tspan><tspan x="877.6" fill="#24292e">,</tspan></text>
+<text y="400"><tspan x="640" fill="#005cc5">  publicCommits</tspan><tspan x="838" fill="#24292e">: </tspan><tspan x="864.4" fill="#e36209">77</tspan><tspan x="890.8" fill="#24292e">,</tspan></text>
+<text y="430"><tspan x="640" fill="#005cc5">  profile</tspan><tspan x="758.8" fill="#24292e">: </tspan><tspan x="785.2" fill="#b91c1c">&quot;https://github.com/osamarahmani&quot;</tspan><tspan x="1220.8" fill="#24292e">,</tspan></text>
+<text x="640" y="460" fill="#24292e">};</text>
 
-<text y="535"><tspan x="640" fill="#6f42c1" font-weight="700">const</tspan><tspan x="706" fill="#24292e"> languages =</tspan></text>
-<text x="640" y="565" fill="#b91c1c">  &quot;TypeScript 41.9%, JavaScript 31.5%, Jupyter Notebook 13.0%, CSS 6.5%, HTML 4.8%, Python 2.1%&quot;;</text>
+<text y="505"><tspan x="640" fill="#6f42c1" font-weight="700">const</tspan><tspan x="706" fill="#24292e"> languages =</tspan></text>
+<text x="640" y="535" fill="#b91c1c">  &quot;TypeScript 41.9%, JavaScript 31.5%, Jupyter Notebook 13.0%, CSS 6.5%, HTML 4.8%, Python 2.1%&quot;;</text>
 
-<text y="610"><tspan x="640" fill="#6f42c1" font-weight="700">const</tspan><tspan x="706" fill="#24292e"> pinnedRepositories = [</tspan></text>
-<text x="640" y="640" fill="#b91c1c">  &quot;No pinned repositories&quot;,</text>
-<text x="640" y="670" fill="#24292e">];</text>
+<text y="580"><tspan x="640" fill="#6f42c1" font-weight="700">const</tspan><tspan x="706" fill="#24292e"> pinnedRepositories = [</tspan></text>
+<text x="640" y="610" fill="#b91c1c">  &quot;No pinned repositories&quot;,</text>
+<text x="640" y="640" fill="#24292e">];</text>
 
-<text y="715"><tspan x="640" fill="#6f42c1" font-weight="700">const</tspan><tspan x="706" fill="#24292e"> development = {</tspan></text>
-<text y="745"><tspan x="640" fill="#005cc5">  languages</tspan><tspan x="785.2" fill="#24292e">: </tspan><tspan x="811.6" fill="#b91c1c">&quot;Python, JavaScript, TypeScript, HTML, CSS&quot;</tspan><tspan x="1379.1999999999998" fill="#24292e">,</tspan></text>
-<text y="775"><tspan x="640" fill="#005cc5">  interests</tspan><tspan x="785.2" fill="#24292e">: </tspan><tspan x="811.6" fill="#b91c1c">&quot;Artificial Intelligence, Cloud, IoT&quot;</tspan><tspan x="1300" fill="#24292e">,</tspan></text>
-<text y="805"><tspan x="640" fill="#005cc5">  projects</tspan><tspan x="772" fill="#24292e">: </tspan><tspan x="798.4" fill="#b91c1c">&quot;undefined&quot;</tspan><tspan x="943.5999999999999" fill="#24292e">,</tspan></text>
-<text x="640" y="835" fill="#24292e">};</text>
+<text y="685"><tspan x="640" fill="#6f42c1" font-weight="700">const</tspan><tspan x="706" fill="#24292e"> development = {</tspan></text>
+<text y="715"><tspan x="640" fill="#005cc5">  languages</tspan><tspan x="785.2" fill="#24292e">: </tspan><tspan x="811.6" fill="#b91c1c">&quot;Python, JavaScript, TypeScript, HTML, CSS&quot;</tspan><tspan x="1379.1999999999998" fill="#24292e">,</tspan></text>
+<text y="745"><tspan x="640" fill="#005cc5">  interests</tspan><tspan x="785.2" fill="#24292e">: </tspan><tspan x="811.6" fill="#b91c1c">&quot;Artificial Intelligence, Cloud, IoT&quot;</tspan><tspan x="1300" fill="#24292e">,</tspan></text>
+<text y="775"><tspan x="640" fill="#005cc5">  projects</tspan><tspan x="772" fill="#24292e">: </tspan><tspan x="798.4" fill="#b91c1c">&quot;undefined&quot;</tspan><tspan x="943.5999999999999" fill="#24292e">,</tspan></text>
+<text x="640" y="805" fill="#24292e">};</text>
 
-<text y="880"><tspan x="640" fill="#6f42c1" font-weight="700">const</tspan><tspan x="706" fill="#24292e"> contact = {</tspan></text>
-<text y="910"><tspan x="640" fill="#005cc5">  github</tspan><tspan x="745.6" fill="#24292e">: </tspan><tspan x="772" fill="#b91c1c">&quot;github.com/osamarahmani&quot;</tspan><tspan x="1102" fill="#24292e">,</tspan></text>
-<text y="940"><tspan x="640" fill="#005cc5">  website</tspan><tspan x="758.8" fill="#24292e">: </tspan><tspan x="785.2" fill="#b91c1c">&quot;osamarahmani.tech&quot;</tspan><tspan x="1036" fill="#24292e">,</tspan></text>
-<text y="970"><tspan x="640" fill="#005cc5">  linkedin</tspan><tspan x="772" fill="#24292e">: </tspan><tspan x="798.4" fill="#b91c1c">&quot;linkedin.com/in/osamarahmani&quot;</tspan><tspan x="1194.4" fill="#24292e">,</tspan></text>
-<text x="640" y="1000" fill="#24292e">};</text>
+<text y="850"><tspan x="640" fill="#6f42c1" font-weight="700">const</tspan><tspan x="706" fill="#24292e"> contact = {</tspan></text>
+<text y="880"><tspan x="640" fill="#005cc5">  github</tspan><tspan x="745.6" fill="#24292e">: </tspan><tspan x="772" fill="#b91c1c">&quot;github.com/osamarahmani&quot;</tspan><tspan x="1102" fill="#24292e">,</tspan></text>
+<text y="910"><tspan x="640" fill="#005cc5">  website</tspan><tspan x="758.8" fill="#24292e">: </tspan><tspan x="785.2" fill="#b91c1c">&quot;osamarahmani.tech&quot;</tspan><tspan x="1036" fill="#24292e">,</tspan></text>
+<text y="940"><tspan x="640" fill="#005cc5">  linkedin</tspan><tspan x="772" fill="#24292e">: </tspan><tspan x="798.4" fill="#b91c1c">&quot;linkedin.com/in/osamarahmani&quot;</tspan><tspan x="1194.4" fill="#24292e">,</tspan></text>
+<text x="640" y="970" fill="#24292e">};</text>
   </g>
 </svg>
