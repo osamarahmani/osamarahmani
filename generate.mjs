@@ -312,7 +312,7 @@ function formatPinnedRepositories(repositories) {
 
 function createCodeLines(stats) {
   return [
-    { type: "comment", value: "// profile.ts — generated automatically" },
+    
     { type: "statement", keyword: "const", name: "profile", value: "= {" },
     { type: "string", key: "username", value: config.displayUsername },
     { type: "string", key: "role", value: config.role },
