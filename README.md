@@ -1,5 +1,10 @@
-
 <p align="center">
-  <img alt="Fresh Graduate LinkedIn Background"
-       src="https://raw.githubusercontent.com/osamarahmani/osamarahmani/main/Fresh%20Graduate%20LinkedIn%20Background%20Photo.png" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/osamarahmani/osamarahmani/main/profile-dark.svg">
+    <img
+      src="https://raw.githubusercontent.com/osamarahmani/osamarahmani/main/profile-light.svg"
+      alt="Osama Rahmani GitHub Profile">
+  </picture>
 </p>
