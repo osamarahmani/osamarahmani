@@ -76,7 +76,7 @@
 <text x="640" y="205" fill="#24292e">};</text>
 
 <text y="250"><tspan x="640" fill="#6f42c1" font-weight="700">const</tspan><tspan x="706" fill="#24292e"> github = {</tspan></text>
-<text y="280"><tspan x="640" fill="#005cc5">  publicRepos</tspan><tspan x="811.6" fill="#24292e">: </tspan><tspan x="838" fill="#e36209">38</tspan><tspan x="864.4" fill="#24292e">,</tspan></text>
+<text y="280"><tspan x="640" fill="#005cc5">  publicRepos</tspan><tspan x="811.6" fill="#24292e">: </tspan><tspan x="838" fill="#e36209">37</tspan><tspan x="864.4" fill="#24292e">,</tspan></text>
 <text y="310"><tspan x="640" fill="#005cc5">  followers</tspan><tspan x="785.2" fill="#24292e">: </tspan><tspan x="811.6" fill="#e36209">9</tspan><tspan x="824.8" fill="#24292e">,</tspan></text>
 <text y="340"><tspan x="640" fill="#005cc5">  following</tspan><tspan x="785.2" fill="#24292e">: </tspan><tspan x="811.6" fill="#e36209">2</tspan><tspan x="824.8" fill="#24292e">,</tspan></text>
 <text y="370"><tspan x="640" fill="#005cc5">  starsReceived</tspan><tspan x="838" fill="#24292e">: </tspan><tspan x="864.4" fill="#e36209">3</tspan><tspan x="877.6" fill="#24292e">,</tspan></text>
