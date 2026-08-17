@@ -80,12 +80,12 @@
 <text y="310"><tspan x="640" fill="#79c0ff">  followers</tspan><tspan x="785.2" fill="#c9d1d9">: </tspan><tspan x="811.6" fill="#ffa657">9</tspan><tspan x="824.8" fill="#c9d1d9">,</tspan></text>
 <text y="340"><tspan x="640" fill="#79c0ff">  following</tspan><tspan x="785.2" fill="#c9d1d9">: </tspan><tspan x="811.6" fill="#ffa657">2</tspan><tspan x="824.8" fill="#c9d1d9">,</tspan></text>
 <text y="370"><tspan x="640" fill="#79c0ff">  starsReceived</tspan><tspan x="838" fill="#c9d1d9">: </tspan><tspan x="864.4" fill="#ffa657">3</tspan><tspan x="877.6" fill="#c9d1d9">,</tspan></text>
-<text y="400"><tspan x="640" fill="#79c0ff">  publicCommits</tspan><tspan x="838" fill="#c9d1d9">: </tspan><tspan x="864.4" fill="#ffa657">77</tspan><tspan x="890.8" fill="#c9d1d9">,</tspan></text>
+<text y="400"><tspan x="640" fill="#79c0ff">  publicCommits</tspan><tspan x="838" fill="#c9d1d9">: </tspan><tspan x="864.4" fill="#ffa657">80</tspan><tspan x="890.8" fill="#c9d1d9">,</tspan></text>
 <text y="430"><tspan x="640" fill="#79c0ff">  profile</tspan><tspan x="758.8" fill="#c9d1d9">: </tspan><tspan x="785.2" fill="#ff7b72">&quot;https://github.com/osamarahmani&quot;</tspan><tspan x="1220.8" fill="#c9d1d9">,</tspan></text>
 <text x="640" y="460" fill="#c9d1d9">};</text>
 
 <text y="505"><tspan x="640" fill="#d2a8ff" font-weight="700">const</tspan><tspan x="706" fill="#c9d1d9"> languages =</tspan></text>
-<text x="640" y="535" fill="#ff7b72">  &quot;TypeScript 41.9%, JavaScript 31.5%, Jupyter Notebook 13.0%, CSS 6.5%, HTML 4.8%, Python 2.1%&quot;;</text>
+<text x="640" y="535" fill="#ff7b72">  &quot;TypeScript 41.6%, JavaScript 31.4%, Jupyter Notebook 12.9%, CSS 7.6%, HTML 4.4%, Python 2.1%&quot;;</text>
 
 <text y="580"><tspan x="640" fill="#d2a8ff" font-weight="700">const</tspan><tspan x="706" fill="#c9d1d9"> pinnedRepositories = [</tspan></text>
 <text x="640" y="610" fill="#ff7b72">  &quot;No pinned repositories&quot;,</text>
