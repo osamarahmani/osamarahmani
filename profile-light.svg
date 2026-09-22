@@ -76,16 +76,16 @@
 <text x="640" y="205" fill="#24292e">};</text>
 
 <text y="250"><tspan x="640" fill="#6f42c1" font-weight="700">const</tspan><tspan x="706" fill="#24292e"> github = {</tspan></text>
-<text y="280"><tspan x="640" fill="#005cc5">  publicRepos</tspan><tspan x="811.6" fill="#24292e">: </tspan><tspan x="838" fill="#e36209">39</tspan><tspan x="864.4" fill="#24292e">,</tspan></text>
+<text y="280"><tspan x="640" fill="#005cc5">  publicRepos</tspan><tspan x="811.6" fill="#24292e">: </tspan><tspan x="838" fill="#e36209">40</tspan><tspan x="864.4" fill="#24292e">,</tspan></text>
 <text y="310"><tspan x="640" fill="#005cc5">  followers</tspan><tspan x="785.2" fill="#24292e">: </tspan><tspan x="811.6" fill="#e36209">10</tspan><tspan x="838" fill="#24292e">,</tspan></text>
 <text y="340"><tspan x="640" fill="#005cc5">  following</tspan><tspan x="785.2" fill="#24292e">: </tspan><tspan x="811.6" fill="#e36209">3</tspan><tspan x="824.8" fill="#24292e">,</tspan></text>
 <text y="370"><tspan x="640" fill="#005cc5">  starsReceived</tspan><tspan x="838" fill="#24292e">: </tspan><tspan x="864.4" fill="#e36209">3</tspan><tspan x="877.6" fill="#24292e">,</tspan></text>
-<text y="400"><tspan x="640" fill="#005cc5">  publicCommits</tspan><tspan x="838" fill="#24292e">: </tspan><tspan x="864.4" fill="#e36209">89</tspan><tspan x="890.8" fill="#24292e">,</tspan></text>
+<text y="400"><tspan x="640" fill="#005cc5">  publicCommits</tspan><tspan x="838" fill="#24292e">: </tspan><tspan x="864.4" fill="#e36209">91</tspan><tspan x="890.8" fill="#24292e">,</tspan></text>
 <text y="430"><tspan x="640" fill="#005cc5">  profile</tspan><tspan x="758.8" fill="#24292e">: </tspan><tspan x="785.2" fill="#b91c1c">&quot;https://github.com/osamarahmani&quot;</tspan><tspan x="1220.8" fill="#24292e">,</tspan></text>
 <text x="640" y="460" fill="#24292e">};</text>
 
 <text y="505"><tspan x="640" fill="#6f42c1" font-weight="700">const</tspan><tspan x="706" fill="#24292e"> languages =</tspan></text>
-<text x="640" y="535" fill="#b91c1c">  &quot;TypeScript 41.6%, JavaScript 31.4%, Jupyter Notebook 12.9%, CSS 7.6%, HTML 4.4%, Python 2.1%&quot;;</text>
+<text x="640" y="535" fill="#b91c1c">  &quot;JavaScript 42.5%, TypeScript 33.8%, Jupyter Notebook 10.5%, CSS 7.8%, HTML 3.6%, Python 1.7%&quot;;</text>
 
 <text y="580"><tspan x="640" fill="#6f42c1" font-weight="700">const</tspan><tspan x="706" fill="#24292e"> pinnedRepositories = [</tspan></text>
 <text x="640" y="610" fill="#b91c1c">  &quot;No pinned repositories&quot;,</text>
